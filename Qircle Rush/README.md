@@ -12,7 +12,7 @@ Qircle Rush is a simple endless hypercasual arcade game made with pygame.
 
 ## How to Download
 
-Download this project from here [Download Qircle Rush](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Qircle%20Rush)
+Download this project from here [Download Qircle Rush](https://downgit.github.io/#/home?url=https://github.com/Gurupatil0003/PyGame/tree/main/Qircle%20Rush)
 
 ## Requirements
 
