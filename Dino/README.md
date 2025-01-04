@@ -12,7 +12,7 @@ Dino Run is simple modified version of Google Chrome dino made with python and p
 
 ## How to Download
 
-Download this project from here [Download Dino Run](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Dino)
+Download this project from here [Download Dino Run](https://github.com/Gurupatil0003/PyGame/tree/main/Dino)
 
 ## Requirements
 
