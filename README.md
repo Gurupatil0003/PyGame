@@ -12,79 +12,79 @@ and pygame library.
 * ### [Aeroblasters](https://github.com/Gurupatil0003/PyGame/tree/main/Aeroblasters)
 	> Aeroblasters is a 2d plane shooter arcade game.
 
-* ### [Angry Walls](https://github.com/pyGuru123/Python-Games/tree/master/Angry%20Walls)
+* ### [Angry Walls](https://github.com/Gurupatil0003/PyGame/tree/main/Angry%20Walls)
 	> A simple hypercasual game made on pydroid3.
 
-* ### [Arc Dash](https://github.com/pyGuru123/Python-Games/tree/master/Arc%20Dash)
+* ### [Arc Dash](https://github.com/Gurupatil0003/PyGame/tree/main/Arc%20Dash)
 	> Arc Dash is a simple endless target based hypercasual arcade game.
 
-* ### [Asteroids](https://github.com/pyGuru123/Python-Games/tree/master/Asteroids)
+* ### [Asteroids](https://github.com/Gurupatil0003/PyGame/tree/main/Asteroids)
 	> Asteroids is an implementaion of Asteroids game in pygame.
 
-* ### [Bounce](https://github.com/pyGuru123/Python-Games/tree/master/Bounce)
+* ### [Bounce](https://github.com/Gurupatil0003/PyGame/tree/main/Bounce)
 	> Bounce is an clone of the original Nokia's Bounce game
 
-* ### [Car Dodge 2D](https://github.com/pyGuru123/Python-Games/tree/master/Car%20Dodge%202d)
+* ### [Car Dodge 2D](https://github.com/Gurupatil0003/PyGame/tree/main/Car%20Dodge%202d)
 	> A car dodge game made on pydroid3.
 
 * ### [Cave Story](https://github.com/pyGuru123/Python-Games/tree/master/Cave%20Story)
 	> A cave adventure based 2d platformer game made on pydroid3.
 
-* ### [Connected](https://github.com/pyGuru123/Python-Games/tree/master/Connected)
+* ### [Connected](https://github.com/Gurupatil0003/PyGame/tree/main//Connected)
 	> Connected is a simple endless hypercasual game.
 
-* ### [Dino](https://github.com/pyGuru123/Python-Games/tree/master/Dino)
+* ### [Dino](https://github.com/Gurupatil0003/PyGame/tree/main/Dino)
 	> Dino is an implementaion of chrome dino game but with cheatcodes.
 
-* ### [Dodgy Walls](https://github.com/pyGuru123/Python-Games/tree/master/Dodgy%20Walls)
+* ### [Dodgy Walls](https://github.com/Gurupatil0003/PyGame/tree/main/Dodgy%20Walls)
 	> Dodgy walls is a simple endless hypercasual arcade game.
 
-* ### [Dots & Boxes](https://github.com/pyGuru123/Python-Games/tree/master/Dots%20%26%20Boxes)
+* ### [Dots & Boxes](https://github.com/Gurupatil0003/PyGame/tree/main/Dots%20%26%20Boxes)
 	> Dots & Boxes is a simple dots and boxes game clone made with pygame.
 
-* ### [Egg Catching Game](https://github.com/pyGuru123/Python-Games/tree/master/Egg%20Catching%20Game)
+* ### [Egg Catching Game](https://github.com/Gurupatil0003/PyGame/tree/main/Egg%20Catching%20Game)
 	> Collect Eggs, score points. A simple game for pydroid3.
 
-* ### [Flappy Bird](https://github.com/pyGuru123/Python-Games/tree/master/Flappy%20Bird)
+* ### [Flappy Bird](https://github.com/Gurupatil0003/PyGame/tree/main/Flappy%20Bird)
 	> An implementation of flappy bird on pydroid3.
 
-* ### [GhostBusters](https://github.com/pyGuru123/Python-Games/tree/master/GhostBusters)
+* ### [GhostBusters](https://github.com/Gurupatil0003/PyGame/tree/main/GhostBusters)
 	> GhostBusters is a scrollable platformer game with parallax.
 
-* ### [HyperTile Dash](https://github.com/pyGuru123/Python-Games/tree/master/HyperTile%20Dash)
+* ### [HyperTile Dash](https://github.com/Gurupatil0003/PyGame/tree/main/HyperTile%20Dash)
 	> HyperTile Dash is a simple target based endless hypercasual arcade game.
 
-* ### [Jungle Dash](https://github.com/pyGuru123/Python-Games/tree/master/Jungle%20Dash)
+* ### [Jungle Dash](https://github.com/Gurupatil0003/PyGame/tree/main/Jungle%20Dash)
 	> Jungle Dash is a 2D platformer game made with pygame.
 
-* ### [Memory Puzzle](https://github.com/pyGuru123/Python-Games/tree/master/Memory%20Puzzle)
+* ### [Memory Puzzle](https://github.com/Gurupatil0003/PyGame/tree/main/Memory%20Puzzle)
 	> Memory Puzzle is a simple puzzle game based on fruits made with pygame.
 
-* ### [MineSweeper](https://github.com/pyGuru123/Python-Games/tree/master/MineSweeper)
+* ### [MineSweeper](https://github.com/Gurupatil0003/PyGame/tree/main/MineSweeper)
 	> MineSweeper game written using tkinter library.
 
-* ### [Piano Tiles](https://github.com/pyGuru123/Python-Games/tree/master/Piano%20Tiles)
+* ### [Piano Tiles](https://github.com/Gurupatil0003/PyGame/tree/main/Piano%20Tiles)
 	> Piano Tiles musical game written using pygame library.
 
-* ### [Picture Sliding Puzzle](https://github.com/pyGuru123/Python-Games/tree/master/Picture%20Sliding%20Puzzle)
+* ### [Picture Sliding Puzzle](https://github.com/Gurupatil0003/PyGame/tree/main/Picture%20Sliding%20Puzzle)
 	> Picture Sliding Puzzle is an implementation of 15 puzzle in tkinter library.
 
-* ### [Pong](https://github.com/pyGuru123/Python-Games/tree/master/Pong)
+* ### [Pong](https://github.com/Gurupatil0003/PyGame/tree/main/Pong)
 	> Pong game written using turtle module.
 
-* ### [Qircle Rush](https://github.com/pyGuru123/Python-Games/tree/master/Qircle%20Rush)
+* ### [Qircle Rush](https://github.com/Gurupatil0003/PyGame/tree/main/Qircle%20Rush)
 	> Qircle Rush is a simple hypercasual game written using pygame library.
 
-* ### [Rock Paper Scissor](https://github.com/pyGuru123/Python-Games/tree/master/Rock%20Paper%20Scissor)
+* ### [Rock Paper Scissor](https://github.com/Gurupatil0003/PyGame/tree/main/Rock%20Paper%20Scissor)
 	> Rock Paper Scissor game written using tkinter library.
 
-* ### [Rotate Dash](https://github.com/pyGuru123/Python-Games/tree/master/Rotate%20Dash)
+* ### [Rotate Dash](https://github.com/Gurupatil0003/PyGame/tree/main/Rotate%20Dash)
 	> Rotate Dash is a simple hypercasual game written using pygame library.
 
-* ### [Tetris](https://github.com/pyGuru123/Python-Games/tree/master/Tetris)
+* ### [Tetris](https://github.com/Gurupatil0003/PyGame/tree/main/Tetris)
 	> Tetris is a tetris clone made using python and pygame.
 
-* ### [Tic Tac Toe](https://github.com/pyGuru123/Python-Games/tree/master/Tic%20Tac%20Toe)
+* ### [Tic Tac Toe](https://github.com/Gurupatil0003/PyGame/tree/main/Tic%20Tac%20Toe)
 	> Tic Tac Toe game written using tkinter library.
 
 ***
