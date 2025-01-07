@@ -9,7 +9,7 @@ and pygame library.
 
 ## All the Games are listed here
 
-* ### [Aeroblasters](https://github.com/pyGuru123/Python-Games/tree/master/Aeroblasters)
+* ### [Aeroblasters](https://github.com/Gurupatil0003/PyGame/tree/main/Aeroblasters)
 	> Aeroblasters is a 2d plane shooter arcade game.
 
 * ### [Angry Walls](https://github.com/pyGuru123/Python-Games/tree/master/Angry%20Walls)
