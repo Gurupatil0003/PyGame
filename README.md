@@ -111,16 +111,17 @@ These games are specifically made and optimised for pydroid3
 
 * ### SpriteSheet Cutter
 	> SpriteSheet Cutter is a tool to cut spritsheets.\
-	> Link to project : [SpriteSheet Cutter](https://github.com/pyGuru123/Python-Games/tree/master/SpriteSheet%20Cutter)
+	> Link to project : [SpriteSheet Cutter](https://github.com/Gurupatil0003/PyGame/tree/main/SpriteSheet%20Cutter)
 
 * ### Level Designer
 	> Level Designer is a tool to design levels for 2D non scrollable platformer games.\
-	> Link to project : [Level Designer](https://github.com/pyGuru123/Python-Games/tree/master/Level%20Designer)
+	> Link to project : [Level Designer](https://github.com/Gurupatil0003/PyGame/tree/main/Level%20Designer)
 
 ***
+
 ## Game Resources
 
-To get a complete list of free and awesome 2D game resources including Spritesheets, Sounds, Textures, HUDs, Menus and other game assets [click here](https://github.com/pyGuru123/gitMemory/blob/main/game%20resources.md)
+To get a complete list of free and awesome 2D game resources including Spritesheets, Sounds, Textures, HUDs, Menus and other game assets [click here](htttps://github.com/pyGuru123/gitMemory/blob/main/game%20resources.md)
 
 
 <br/>
